@@ -106,9 +106,9 @@ To write a Java program that uses conditional statements to determine the state 
 ## PROGRAM:
  ```
 /*
-Program to implement a conditional statement using Java
-Developed by:  RUSHMITHA  R
-RegisterNumber: 212224040281
+Program to implement variables and Operators using Java
+Developed by:  SHREYESHKAR SEKAR
+RegisterNumber: 212224220099
 */
 ```
 
@@ -170,9 +170,9 @@ To write a Java program using looping statements to print a right-angled triangl
 ## PROGRAM:
  ```
 /*
-Program to implement a Looping Statement using Java
-Developed by:  RUSHMITHA  R
-RegisterNumber: 212224040281
+Program to implement variables and Operators using Java
+Developed by:  SHREYESHKAR SEKAR
+RegisterNumber: 212224220099
 */
 ```
 
@@ -232,9 +232,9 @@ To write a Java program that finds the index position of a specified element fro
 ## PROGRAM:
  ```
 /*
-Program to implement a Array concept using Java
-Developed by:  RUSHMITHA  R
-RegisterNumber: 212224040281
+Program to implement variables and Operators using Java
+Developed by:  SHREYESHKAR SEKAR
+RegisterNumber: 212224220099
 */
 ```
 
@@ -311,9 +311,9 @@ To write a Java program to compute the power of a number using the Math.pow() fu
 ## PROGRAM:
  ```
 /*
-Program to implement a Strings and Math Function using Java
-Developed by:  RUSHMITHA  R
-RegisterNumber: 212224040281
+Program to implement variables and Operators using Java
+Developed by:  SHREYESHKAR SEKAR
+RegisterNumber: 212224220099
 */
 ```
 
