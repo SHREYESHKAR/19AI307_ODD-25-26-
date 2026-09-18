@@ -536,19 +536,27 @@ import java.util.Scanner;
 public class LargestDigit {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        String input = sc.nextLine(); 
+
+       
+        int number = sc.nextInt();
+
+        String input = Integer.toString(number);
 
         int largest = 0;
 
-        for (int i = 0; i < input.length(); i++) 
-        {
+       
+        for (int i = 0; i < input.length(); i++) {
             int digit = Character.getNumericValue(input.charAt(i));
+
+           
             if (digit > largest) {
                 largest = digit;
             }
         }
 
+       
         System.out.println("The largest digit is: " + largest);
+
         sc.close();
     }
 }
